@@ -10,12 +10,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  puppeteer: ^2.17.0  
-  dio: ^4.0.6  
+  puppeteer: ^2.23.0  
+  dio: ">=4.0.6 <6.0.0"
   easy_logger: ^0.0.2
-  js: ^0.6.4
-  path_provider: ^2.0.11
-  archive: ^3.3.2
+  js: ^0.6.5
+  path_provider: ^2.0.13
+  archive: ^3.3.6
   path: ^1.8.2
   http: ^0.13.5
   
